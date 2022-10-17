@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiPilip
 - I am a student at Sriwijaya University, Indonesia
 - 👀 I’m interested in programminglanguange
-- 🌱 I’m currently learning basicjava
+- 🌱 I’m currently learning basicjava but i do front-endDeveloping smtms.
 - 📫 How to reach me (ig: @philifsss_)
 
 <!---
