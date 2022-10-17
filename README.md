@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @SiPilip
-- I am a student at Sriwijaya University, Indonesia
-- 👀 I’m interested in programminglanguange
-- 🌱 I’m currently learning basicjava but i do front-endDeveloping smtms.
-- 📫 How to reach me (ig: @philifsss_)
+Philifs Bryan Sipahutar people called me SiPilip
+student at Sriwijaya University, Indonesia
+👀 interested in programminglanguange
+🌱 currently learning basicjava but i do front-endDeveloping smtms.
+📫 reach me on (ig: @philifsss_)
+philifs.74hutar@gmail.com
 
-<!---
-SiPilip/SiPilip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+thanks for checking my github✨ 
+i am not pro at all, just finding some ways to get fun with my own codes.
+thanks again :)
+
