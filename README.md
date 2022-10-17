@@ -3,7 +3,7 @@
 - 👀 interested in programminglanguange
 - 🌱 currently learning basicjava but i do front-endDeveloping smtms.
 - 📫 reach me on (ig: @philifsss_)
--                 mail: philifs.74hutar@gmail.com
+- mail: philifs.74hutar@gmail.com
 
 thanks for checking my github✨ 
 i am not pro at all, just finding some ways to get fun with my own codes.
