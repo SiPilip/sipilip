@@ -1,7 +1,7 @@
-- Philifs Bryan Sipahutar people called me SiPilip
+- Philifs Bryan Sipahutar
 - student at Sriwijaya University, Indonesia
-- 👀 interested in programminglanguange
-- 🌱 currently learning basicjava but i do front-endDeveloping smtms.
+- focused on programminglanguange
+- now learning basicjava.
 - 📫 reach me on (ig: @philifsss_)
 - mail: philifs.74hutar@gmail.com
 
