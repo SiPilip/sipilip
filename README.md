@@ -1,5 +1,5 @@
 # 💫 About Me:
-student at Sriwijaya University, Indonesia<br>focused on programminglanguange<br>now learning basicjava.<br>📫 reach me on (ig: @philifsss_)<br>indonesian 🇮🇩
+student at Sriwijaya University, Indonesia<br>focused on programminglanguange<br>now learning basicjava & web developing.<br>📫 reach me on (ig: @philifsss_)<br>indonesian 🇮🇩
 
 
 ## 🌐 Socials:
