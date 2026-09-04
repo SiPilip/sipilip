@@ -1,5 +1,5 @@
 # 💫 About Me:
-student at Sriwijaya University, Indonesia<br>focused on front end web developing<br>now learning cloud computing.<br>📫 reach me on (ig: @philifsss_)<br>indonesian 🇮🇩
+reach me on (ig: @philifsss_)<br>indonesian 🇮🇩
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sipilip&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
