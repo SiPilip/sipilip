@@ -1,17 +1,24 @@
-# 💫 About Me:
-reach me on (ig: @philifsss_)<br>indonesian 🇮🇩
+# Hi, I'm Philip 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sipilip&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sipilip&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sipilip&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build web applications and explore software development based in Indonesia 🇮🇩. Always looking for ways to build clean things and have fun with code[cite: 1].
 
-### ✍️ a thanks from meh
-thanks for checking my github✨ 
-i am not pro at all, just finding some ways to get fun with my own codes.
-thanks again :)
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⚡ A Little Bit About Me
+- 💻 Building full-stack projects and tinkering with modern web tech.
+- 🎯 Focused on shipping clean interfaces and reliable systems.
+- 🎧 When I'm not pushing commits, I'm usually into gaming or music production.
 
+---
 
+### 📊 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipilip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📬 Let's Connect
+- **Instagram:** [@philifsss_](https://instagram.com/philifsss_)[cite: 1]
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/username)
+- **Email:** your.email@example.com
