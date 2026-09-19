@@ -4,10 +4,10 @@ I build web applications and explore software development based in Indonesia �
 
 ---
 
-### ⚡ A Little Bit About Me
-- 💻 Building full-stack projects and tinkering with modern web tech.
-- 🎯 Focused on shipping clean interfaces and reliable systems.
-- 🎧 When I'm not pushing commits, I'm usually into gaming or music production.
+### A Little Bit About Me
+- Building full-stack projects and tinkering with modern web tech.
+- Focused on shipping clean interfaces and reliable systems.
+- When I'm not pushing commits, I'm usually into gaming or music production.
 
 ---
 
@@ -19,6 +19,6 @@ I build web applications and explore software development based in Indonesia �
 ---
 
 ### 📬 Let's Connect
-- **Instagram:** [@philifsss_](https://instagram.com/philifsss_)[cite: 1]
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/username)
-- **Email:** your.email@example.com
+- **Instagram:** https://www.instagram.com/philifsss_
+- **LinkedIn:** https://www.linkedin.com/in/philifsbryansipahutar
+- **Email:** philifs.74hutar@gmail.com
