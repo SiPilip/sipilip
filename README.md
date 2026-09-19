@@ -1,4 +1,4 @@
-# Hi, I'm Philip 👋
+# Hi, I'm Philifs 👋
 
 I build web applications and explore software development based in Indonesia 🇮🇩. Always looking for ways to build clean things and have fun with code.
 
