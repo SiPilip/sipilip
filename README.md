@@ -19,6 +19,6 @@ I build web applications and explore software development based in Indonesia ðŸ‡
 ---
 
 ### ðŸ“¬ Let's Connect
-- **Instagram:** https://www.instagram.com/philifsss_
-- **LinkedIn:** https://www.linkedin.com/in/philifsbryansipahutar
+- **Instagram:** [Instagram Profile](https://www.instagram.com/philifsss_)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/philifsbryansipahutar)
 - **Email:** philifs.74hutar@gmail.com
