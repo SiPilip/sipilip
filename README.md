@@ -1,6 +1,6 @@
 # Hi, I'm Philip 👋
 
-I build web applications and explore software development based in Indonesia 🇮🇩. Always looking for ways to build clean things and have fun with code[cite: 1].
+I build web applications and explore software development based in Indonesia 🇮🇩. Always looking for ways to build clean things and have fun with code.
 
 ---
 
